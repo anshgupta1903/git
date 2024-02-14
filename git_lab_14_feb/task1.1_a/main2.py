@@ -1,4 +1,5 @@
 n = int(input())
 x = int(input())
 remainder = n%x
-print(remainder)
+print(f"The remainder is {remainder}")
+
