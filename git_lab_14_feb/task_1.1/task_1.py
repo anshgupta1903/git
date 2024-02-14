@@ -6,3 +6,8 @@
     print(diff)
     prod = n*m
     print(prod)
+    if m != 0:
+            print(n//m)
+    else:
+            print("invalid operation")
+
