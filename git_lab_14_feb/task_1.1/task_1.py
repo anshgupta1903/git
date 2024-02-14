@@ -4,3 +4,5 @@
     print(sum_)
     diff = n - m 
     print(diff)
+    prod = n*m
+    print(prod)
